@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 🔭 I’m currently working on LYNXINFOSEC Pvt.ltd <br>👯 I’m looking to collaborate on Full-stack Projects<br>🌱 I’m currently learning Back-end development
 
 
