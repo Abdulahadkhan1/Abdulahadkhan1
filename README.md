@@ -79,8 +79,5 @@
 <br/>  
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=AbdulAhadkhan1&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=AbdulAhadkhan1&&style=flat-square" align="left" />
 </div>  
-<br/>  
-<br />
-
