@@ -72,12 +72,4 @@
   
 <p align="center">"To iterate is human, to recurse divine."
           L. Peter Deutsch </p>
-<br/>  
 
-  
-
-<br/>  
-
-<div align="left" margin-top="20px">
-<img src="https://komarev.com/ghpvc/?username=AbdulAhadkhan1&&style=flat-square" align="left" />
-</div>  
