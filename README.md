@@ -78,6 +78,6 @@
 
 <br/>  
 
-<div align="left">
+<div align="left" margin-top="20px">
 <img src="https://komarev.com/ghpvc/?username=AbdulAhadkhan1&&style=flat-square" align="left" />
 </div>  
