@@ -1,4 +1,7 @@
 <br clear="both">
+<p align="left">
+Hi Everyone 👋:<br>I'm Abdul Ahad Khan a front-end developer.<br>
+</p>
 
 <div align="center">
   <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa245N2IxenZ1NGFscmJiY2l0ZWdiZm40dHowNmxkM3diMmE5b3NsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif"  />
@@ -6,7 +9,7 @@
 
 ###
 
-<p align="left">Hi Everyone 👋:<br>I'm Abdul Ahad Khan a front-end developer.<br><br>💫 About Me :<br>🔭 I’m currently working on LYNXINFOSEC Pvt.ltd<br>👯 I’m looking to collaborate on Full-stack Projects<br>🌱 I’m currently learning Back-end development</p>
+<p align="left"><br>💫 About Me :<br>🔭 I’m currently working on LYNXINFOSEC Pvt.ltd<br>👯 I’m looking to collaborate on Full-stack Projects<br>🌱 I’m currently learning Back-end development</p>
 
 ###
 
