@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Abdul Ahad Khan 👨‍💻, a full-time front-end developer🚀</div>  
-  
+### <div align="Left">I'm Abdul Ahad Khan 👨‍💻, a full-time front-end developer🚀</div>  
 
-- 💫 About Me :
-🔭 I’m currently working on LYNXINFOSEC Pvt.ltd
-👯 I’m looking to collaborate on Full-stack Projects
-🌱 I’m currently learning Back-end development  
+
+<p>- 💫 About Me :</p>
+<p>🔭 I’m currently working on LYNXINFOSEC Pvt.ltd</p>
+<p>👯 I’m looking to collaborate on Full-stack Projects</p>
+<p>🌱 I’m currently learning Back-end development </p>
   
 
 <br/>  
