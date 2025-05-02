@@ -85,11 +85,11 @@
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=AbdulAhadkhan1&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=AbdulAhadkhan1&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
 <br/>  
   
-<p align=""left>"To iterate is human, to recurse divine."
+<p align="left">"To iterate is human, to recurse divine."
          <span font="Bold"> L. Peter Deutsch<span> </p>
 <br/>  
 
@@ -100,18 +100,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AbdulAhadkhan1&&style=flat-square" align="center" />
 </div>  
-  
-
 <br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
