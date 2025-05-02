@@ -63,12 +63,12 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=AbdulAhadkhan1&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=AbdulAhadkhan1&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
 <br/>  
   
-<p align="left">"To iterate is human, to recurse divine."
-         <span font="Bold"> L. Peter Deutsch<span> </p>
+<p align="center">"To iterate is human, to recurse divine."
+          L. Peter Deutsch </p>
 <br/>  
 
   
