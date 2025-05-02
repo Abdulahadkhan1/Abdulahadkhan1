@@ -65,7 +65,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left" width="100px" height="70px">
 <a href="https://github.com/https://github.com/Abdulahadkhan1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
