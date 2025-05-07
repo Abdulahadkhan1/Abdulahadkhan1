@@ -6,7 +6,7 @@
 ### <div align="Left">I'm Abdul Ahad Khan 👨‍💻, a full-time front-end developer🚀</div>  
 
 
-<p>💫 About Me :</p>
+<p font="bold">💫 About Me :</p>
 <p>🔭 I’m currently working on LYNXINFOSEC Pvt.ltd</p>
 <p>👯 I’m looking to collaborate on Full-stack Projects</p>
 <p>🌱 I’m currently learning Back-end development </p>
