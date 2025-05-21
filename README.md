@@ -7,7 +7,7 @@
 
 
 <p font="bold">💫 About Me :</p>
-<p>🔭 I’m currently working on LYNXINFOSEC Pvt.ltd</p>
+<p>🔭 I’m currently working on LYNXINFOSEC Pvt.ltd as a Front-end Developer</p>
 <p>👯 I’m looking to collaborate on Full-stack Projects</p>
 <p>🌱 I’m currently learning Back-end development </p>
   
