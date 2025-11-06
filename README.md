@@ -70,6 +70,6 @@
 <br/>
 <br/>
   
-<p align="center">"To iterate is human , to recurse divine."
+<p align="center">"To iterate is human, to recurse divine."
           L. Peter Deutsch </p>
 
