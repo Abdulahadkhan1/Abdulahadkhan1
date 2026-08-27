@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="Left">I'm Abdul Ahad Khan 👨‍💻, a full-time front-end dev🚀</div>  
+### <div align="Left">I'm Abdul Ahad Khan 👨‍💻, a full-time full-stack dev🚀</div>  
 
 
 <p font="bold">💫 About Me:</p>
